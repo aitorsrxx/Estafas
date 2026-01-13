@@ -1,3 +1,3 @@
 ### ÍNDICE DE ESTAFCAS
 
-(deepfakes)[/deepfake.md]
+(deepfakes)[https://github.com/aitorsrxx/Estafas/blob/main/deepfakes.md)]
