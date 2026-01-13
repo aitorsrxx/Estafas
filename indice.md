@@ -1,4 +1,4 @@
 ### ÍNDICE DE ESTAFCAS
 
-- [Deepfakes](main/deepfakes.md)
+- [Deepfakes](/deepfakes.md)
 - 
