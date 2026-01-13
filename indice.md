@@ -1,4 +1,4 @@
-### ÍNDICE DE ESTAFCAS
+### ÍNDICE DE ESTAFAS
 
 - [Deepfakes](/deepfakes.md)
 - 
