@@ -75,6 +75,91 @@ Algunas señales de alerta incluyen:
 
 ---
 
+## ¿Cómo se crean los deepfakes usados en estafas?
+
+Los estafadores aprovechan herramientas de inteligencia artificial cada vez más accesibles y potentes. El proceso suele seguir estos pasos:
+
+1. **Obtención de material**
+   - Recopilan fotos, videos y audios desde redes sociales, entrevistas o videollamadas.
+   - En muchos casos basta **una sola imagen** o **unos segundos de voz**.
+
+2. **Generación de imágenes falsas**
+   - Utilizan IAs actuales muy sencillas de usar (como Nano Banana Pro, entre otras) para:
+     - Crear rostros hiperrealistas desde cero
+     - Modificar fotos reales
+     - Ajustar expresiones, edad o apariencia
+   - Estas imágenes se usan para perfiles falsos, documentos o como base para videos.
+
+3. **Creación de video hiperrealista**
+   - Emplean modelos avanzados de generación de video (como Veo 3 y tecnologías similares) que permiten:
+     - Crear videos completos a partir de texto o imágenes
+     - Animar rostros con gestos naturales
+     - Mantener iluminación, movimiento y continuidad realistas
+   - Esto hace posible generar mensajes en video que parecen grabaciones auténticas.
+
+4. **Clonación de voz**
+   - Con IAs de síntesis y clonación vocal replican:
+     - Tono
+     - Acento
+     - Forma de hablar
+   - El audio se sincroniza con el video para aumentar la credibilidad.
+
+5. **Uso de mensajes persuasivos**
+   - Modelos de lenguaje generan textos y guiones convincentes.
+   - Se apela a:
+     - Urgencia
+     - Autoridad
+     - Miedo o confianza personal
+
+---
+
+## ¿Por qué ahora es más fácil estafar con deepfakes?
+
+La combinación de:
+- Generadores de imágenes hiperrealistas
+- IAs de video muy avanzadas (como Veo 3)
+- Clonación de voz
+- Generación automática de textos
+
+Permite crear **identidades falsas completas** sin conocimientos técnicos avanzados, reduciendo drásticamente el tiempo y esfuerzo necesarios para estafar.
+
+---
+
+## Casos de uso legítimos y normales de estas IAs
+
+Las mismas tecnologías tienen usos **éticos y beneficiosos**:
+
+### Entretenimiento y cine
+- Doblaje de actores sin regrabar escenas
+- Recreación digital para efectos especiales
+- Traducción de películas manteniendo la voz original
+
+### Videojuegos y realidad virtual
+- Personajes con expresiones realistas
+- NPCs con voces naturales
+- Avatares personalizados
+
+### Accesibilidad
+- Personas que perdieron la voz pueden comunicarse con una voz sintética similar a la suya
+- Lectores de texto más naturales
+
+### Educación y divulgación
+- Recreación histórica de personajes
+- Videos educativos interactivos
+- Simulaciones para aprendizaje
+
+### Salud y medicina
+- Terapias del habla
+- Rehabilitación vocal
+- Apoyo psicológico y cognitivo
+
+### Empresas y marketing
+- Videos corporativos personalizados
+- Asistentes virtuales
+- Presentaciones automatizadas
+
+---
+
 ## ¿Cómo protegerse?
 
 - Verifica siempre por otro medio (llamada directa o mensaje)  
