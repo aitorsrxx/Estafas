@@ -177,4 +177,8 @@ La mejor defensa es la prevención, el pensamiento crítico y la verificación d
 
 La tecnología avanza, pero la conciencia y la educación siguen siendo nuestras mejores herramientas.
 
+## Noticias
+
+[Noticia estafa video ia presidente del gobierno]([https://elcaso.elnacional.cat/es/tecnologia/estafan-19-millones-euros-200-personas-videos-falsos-ia-sanchez-feijoo_1394852102.html](https://okdiario.com/sucesos/banda-usa-videos-ia-sanchez-feijoo-captar-victimas-cripto-estafa-14569897))
+
 
