@@ -179,6 +179,9 @@ La tecnología avanza, pero la conciencia y la educación siguen siendo nuestras
 
 ## Noticias
 
-[Noticia estafa video ia presidente del gobierno](https://okdiario.com/sucesos/banda-usa-videos-ia-sanchez-feijoo-captar-victimas-cripto-estafa-14569897)
+- [Noticia estafa video ia presidente del gobierno](https://okdiario.com/sucesos/banda-usa-videos-ia-sanchez-feijoo-captar-victimas-cripto-estafa-14569897)
 
+- [Noticia estafa ceo](https://laverdadnoticias.com/ultimas-noticias/mundo/estafa-deepfake-asi-intentaron-robar-670-mil-usando-la-cara-de-un-ceo****)
+
+- [7 casos reales del engaño con IA](https://altadensidad.com/deepfakes-7-casos-reales-que-muestran-como-crece-el-engano-con-ia/)
 
