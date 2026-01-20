@@ -176,7 +176,7 @@ Los deepfakes representan un nuevo desafío en la seguridad digital.
 La mejor defensa es la prevención, el pensamiento crítico y la verificación de la información antes de actuar.
 
 La tecnología avanza, pero la conciencia y la educación siguen siendo nuestras mejores herramientas.
-![](assets/comic)
+![](assets/comic.png)
 ## Noticias
 
 - [Noticia estafa video ia presidente del gobierno](https://okdiario.com/sucesos/banda-usa-videos-ia-sanchez-feijoo-captar-victimas-cripto-estafa-14569897)
